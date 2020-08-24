@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/-React-Quote-Generator/static/css/main.96f9d8bf.chunk.css",
+    "main.js": "/-React-Quote-Generator/static/js/main.a0a800c3.chunk.js",
+    "main.js.map": "/-React-Quote-Generator/static/js/main.a0a800c3.chunk.js.map",
+    "runtime-main.js": "/-React-Quote-Generator/static/js/runtime-main.a424c2b1.js",
+    "runtime-main.js.map": "/-React-Quote-Generator/static/js/runtime-main.a424c2b1.js.map",
+    "static/css/2.1f961836.chunk.css": "/-React-Quote-Generator/static/css/2.1f961836.chunk.css",
+    "static/js/2.d5ba39a8.chunk.js": "/-React-Quote-Generator/static/js/2.d5ba39a8.chunk.js",
+    "static/js/2.d5ba39a8.chunk.js.map": "/-React-Quote-Generator/static/js/2.d5ba39a8.chunk.js.map",
+    "index.html": "/-React-Quote-Generator/index.html",
+    "precache-manifest.4a67f2b5fa0c576bf8779ca5466d4d8f.js": "/-React-Quote-Generator/precache-manifest.4a67f2b5fa0c576bf8779ca5466d4d8f.js",
+    "service-worker.js": "/-React-Quote-Generator/service-worker.js",
+    "static/css/2.1f961836.chunk.css.map": "/-React-Quote-Generator/static/css/2.1f961836.chunk.css.map",
+    "static/css/main.96f9d8bf.chunk.css.map": "/-React-Quote-Generator/static/css/main.96f9d8bf.chunk.css.map",
+    "static/js/2.d5ba39a8.chunk.js.LICENSE.txt": "/-React-Quote-Generator/static/js/2.d5ba39a8.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/-React-Quote-Generator/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/loader.svg": "/-React-Quote-Generator/static/media/loader.f7f1e9fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a424c2b1.js",
+    "static/css/2.1f961836.chunk.css",
+    "static/js/2.d5ba39a8.chunk.js",
+    "static/css/main.96f9d8bf.chunk.css",
+    "static/js/main.a0a800c3.chunk.js"
+  ]
+}
